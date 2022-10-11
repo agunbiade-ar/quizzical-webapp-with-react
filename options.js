@@ -1,0 +1,35 @@
+const options_ = {
+    amount: 5,
+    category_: [
+        {category: 'Any Category', id: 0},
+        {category: 'General Knowledge', id: 1},
+        {category: 'Entertainment: Books', id: 2},
+        {category: 'Entertainment: Film', id: 3},
+        {category: 'Entertainment: Music', id: 4},
+        {category: 'Entertainment: Musicals & Theatres', id: 5},
+        {category: 'Entertainment: Television', id: 6},
+        {category: 'Entertainment: Video Games', id: 7},
+        {category: 'Entertainment: Board Games', id: 8},
+        {category: 'Science & Nature', id: 9},
+        {category: 'Science: Computers', id: 10},
+        {category: 'Science: Mathematics', id: 11},
+        {category: 'Mythology', id: 12},
+        {category: 'Sports', id: 13},
+        {category: 'Geography', id: 14},
+        {category: 'History', id: 15},
+        {category: 'Politics', id: 16},
+        {category: 'Art', id: 17},
+        {category: 'Celebrities', id: 18},
+        {category: 'Animals', id: 19},
+        {category: 'Vehicles', id: 20},
+        {category: 'Entertainment: Comics', id: 21},
+        {category: 'Science: Gadgets', id: 22},
+        {category: 'Entertainment: Japanese Anime & Manga', id: 23},
+        {category: 'Entertainment: Cartoon & Animations', id: 24},
+    ],
+    difficulty: ['easy', 'medium', 'hard'],
+    difficultyLevel: "easy",
+    category: 0
+}
+
+export default options_

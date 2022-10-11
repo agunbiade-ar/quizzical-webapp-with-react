@@ -1,0 +1,46 @@
+.question{
+    font-size: 1.3rem;
+}
+
+.answers{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.box{
+    border-bottom: 2px solid white;
+}
+
+.answer{
+    background-color: white;
+    color: #1c2c4c;
+    width: 25rem;
+    height: 4rem;
+    margin: 5px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.done{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width: 25rem;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.button-div{
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-right: 10px;
+}

@@ -1,0 +1,24 @@
+.btn{
+    padding: 15px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.homecomponent{
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 5px;
+}

@@ -1,0 +1,8 @@
+.submitDiv{
+    /* display: flex; */
+    justify-content: center;
+    /* width: 25rem; */
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
